@@ -1,0 +1,13 @@
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\bin\Debug\Examen1Rad.exe.config
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\bin\Debug\Examen1Rad.exe
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\bin\Debug\Examen1Rad.pdb
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\bin\Debug\Examen1Rad.xml
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.vbprojResolveAssemblyReference.cache
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.FrmEmpleados.resources
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.FrmIngreso.resources
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.FrmSucursales.resources
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.Resources.resources
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.vbproj.GenerateResource.Cache
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.exe
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.xml
+C:\Users\Hector Said Obando\OneDrive\Documentos\LAB PROG RAD\ExamenRad1\VB\Examen1Rad\Examen1Rad\obj\Debug\Examen1Rad.pdb
