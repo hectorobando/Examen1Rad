@@ -1,0 +1,2 @@
+INSERT INTO Empleados (idempleado, NombreEmpleado, numerotelefonico, edadempleado, correoempleado,direccionempleado,puestoempleado,fecharegistroempleado)
+VALUES ('020000', 'HECTORITO OBANDO', '95422835', '22', 'hector@gmail.com', 'san jose, SJF', 'Jefe', '2022-11-1 22:30:45.000');
